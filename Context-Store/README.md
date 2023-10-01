@@ -1,4 +1,4 @@
-# Context Store (React + Vite)
+# Context Store
 React.JS ile useContext yapısını kullanarak ve axios ile API'dan veri çekerek bir sanal mağaza tasarladık.
 Mağazada sepete ürün ekleyebilir ve sepetten ürün çıkarabiliriz.
 Sepete eklenen ürünlerin sayısını görebilir ve toplam tutarı sepet sayfasında hesaplayabiliriz.
