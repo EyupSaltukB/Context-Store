@@ -32,5 +32,5 @@ tek merkezden yönetmeye ve ihtiyacı olan bileşenlere göndermeye yarar.
 
 ![](./src/assets/recorder.mp4)
 
-# Detaylı Video;
+# Detaylı Video İçin Tıklayınız;
 https://www.linkedin.com/feed/update/urn:li:activity:7114734162414071810/
